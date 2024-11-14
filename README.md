@@ -5,3 +5,8 @@ node index.js
 
 “easy-db” Node.js ORM kütüphanesi SQL ve NoSQL veritabanlarına kolayca bağlanabileceğimiz, 
 CRUD işlemlerini destekleyen basit bir örnektir.
+
+
+# easy-db Project
+
+Bu proje, Node.js kullanılarak geliştirilmiştir.
